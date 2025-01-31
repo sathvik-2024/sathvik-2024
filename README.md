@@ -37,7 +37,8 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Thi
 
 ## 💻 LeetCode Profile
 Check out my LeetCode profile for my solutions to various coding problems and challenges:  
-[My LeetCode Profile](https://leetcode.com/yourusername/)
+![](https://leetcard.Sathvik_leetcode.cool/Sathvik_leetcodecool?font=Dancing_Script)
+
 
 ## 📊 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
