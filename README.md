@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sathvik👋
 
 Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Things You Love]. Here's a little about me and my work!
 
@@ -33,15 +33,11 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Thi
 ## 🛠️ Technologies & Tools:
 - ![Tech 1](https://img.shields.io/badge/-Tech1-black?style=flat&logo=tech1&logoColor=white)
 - ![Tech 2](https://img.shields.io/badge/-Tech2-black?style=flat&logo=tech2&logoColor=white)
-- ![Tech 3](https://img.shields.io/badge/-Tech3-black?style=flat&logo=tech3&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
+
 
 ## 🏆 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/Sathvik_leetcode)
-
-
-
-
-
 
 ## 📊 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
