@@ -25,11 +25,6 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 - **Frameworks:** React, Node.js, Express, Mongoose, Hardhat  
 - **Blockchain:** Ethereum, Web3.js, Smart Contracts, Hardhat  
 
-### **Soft Skills**  
-- Communication  
-- Teamwork  
-- Time Management  
-
 ---
 
 ## 👯 I’m looking to collaborate on:  
@@ -41,8 +36,9 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 
 ## 📫 How to reach me:  
 - Email: **your.email@example.com**  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
+## 🌍 Connect with Me  
+🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+🐦 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
 
 ---
 
@@ -63,9 +59,3 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 
 ## 📊 GitHub Stats:  
 ![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
-
----
-
-![Ethereum Developer](https://img.shields.io/badge/Ethereum-Developer-%233c3c3d?style=flat&logo=ethereum)  
-![Solidity Expert](https://img.shields.io/badge/Solidity-Developer-%23000000?style=flat&logo=solidity)  
-
