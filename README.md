@@ -35,5 +35,9 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Thi
 - ![Tech 2](https://img.shields.io/badge/-Tech2-black?style=flat&logo=tech2&logoColor=white)
 - ![Tech 3](https://img.shields.io/badge/-Tech3-black?style=flat&logo=tech3&logoColor=white)
 
+## 💻 LeetCode Profile
+Check out my LeetCode profile for my solutions to various coding problems and challenges:  
+[My LeetCode Profile](https://leetcode.com/yourusername/)
+
 ## 📊 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
