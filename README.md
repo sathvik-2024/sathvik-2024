@@ -1,57 +1,69 @@
-# Hi there, I'm Sathvik👋
+# Hi there, I'm Sathvik 👋  
 
-Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Things You Love]. Here's a little about me and my work!
+Welcome to my GitHub profile! I'm a **Blockchain & Full-Stack Developer** passionate about **Web3, Smart Contracts, and Scalable Applications**. Here's a little about me and my work!  
 
-## 🔭 I’m currently working on:
-- [Project 1](link) - Short description of your current project
-- [Project 2](link) - Short description of another project
+---
 
-## 🌱 I’m currently learning:
-- [Skill 1] 
-- [Skill 2]
+## 🚀 Notable Projects  
 
-## 🚀 Notable Projects
+Here are some of the most notable projects I’ve worked on:  
 
-Here are some of the most notable projects I’ve worked on:
+### 1. [Healthcare Supply Chain on Ethereum](https://github.com/yourusername/healthcare-supply-chain)  
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%2C%20Node.js%2C%20Solidity%2C%20Hardhat-%2361DAFB?style=flat&logo=react)](https://reactjs.org/)  
+A blockchain-based system for **healthcare supply chain transparency** using Ethereum smart contracts.  
 
-### 1. [Project Name](https://github.com/yourusername/projectname)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%2C%20Node.js-%2361DAFB?style=flat&logo=react)](https://reactjs.org/)  
-Short description of the project—what it does, the challenges it solves, etc. 
+### 2. [Dare or Bust Game](https://github.com/yourusername/dare-or-bust)  
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Java%2C%20Swing%2C%20Applets-%231DA1F2?style=flat&logo=java)](https://www.java.com/)  
+A fun interactive **truth-or-dare game** with custom challenges and scoring.  
 
-### 2. [Project Name](https://github.com/yourusername/projectname)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%2C%20Flask-%231DA1F2?style=flat&logo=python)](https://flask.palletsprojects.com/)  
-A brief description of the project. This could be an app, a script, a library, or anything you want to showcase.
+---
 
+## 🛠️ Technologies & Tools  
 
+### **Technical Skills**  
+- **Languages:** Java, JavaScript, Solidity, Python, SQL, DSA  
+- **Frameworks:** React, Node.js, Express, Mongoose, Hardhat  
+- **Blockchain:** Ethereum, Web3.js, Smart Contracts, Hardhat  
 
-## 👯 I’m looking to collaborate on:
-- [Project/Topic] - If you’re interested, let’s chat!
-- Open to any fun projects in [specific tech stack].
+### **Soft Skills**  
+- Communication  
+- Teamwork  
+- Time Management  
 
-## 🤔 I’m looking for help with:
-- [Any areas you'd like help or advice on]
+---
 
-## 💬 Ask me about:
-- [Tech Stack 1]
-- [Tech Stack 2]
-- [Anything you're good at and enjoy talking about]
+## 👯 I’m looking to collaborate on:  
+- **Web3 & Blockchain Projects**  
+- **Full-Stack DApps**  
+- **Java & System Design Challenges**  
 
-## 📫 How to reach me:
-- Email: [your.email@example.com]
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
+## 🤔 I’m looking for help with:  
+- Optimizing smart contract gas usage  
+- Advanced Solidity security practices  
 
-## ⚡ Fun fact:
-- [Something interesting about you or a fun fact you want to share]
+## 💬 Ask me about:  
+- Ethereum & Smart Contracts  
+- Java & Data Structures  
+- Full-Stack Web Development  
 
-## 🛠️ Technologies & Tools:
-- ![Tech 1](https://img.shields.io/badge/-Tech1-black?style=flat&logo=tech1&logoColor=white)
-- ![Tech 2](https://img.shields.io/badge/-Tech2-black?style=flat&logo=tech2&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
+---
 
+## 📫 How to reach me:  
+- Email: **your.email@example.com**  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
-## 🏆 LeetCode Stats
-![](https://leetcard.jacoblin.cool/Sathvik_leetcode)
+---
 
-## 📊 GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+## ⚡ Fun fact:  
+- **I completed the CryptoZombies course** and built my first blockchain game using Solidity & Web3.js.  
+
+---
+
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sathvik_leetcode)  
+
+---
+
+## 📊 GitHub Stats:  
+![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
