@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Thi
 - ![Tech 3](https://img.shields.io/badge/-Tech3-black?style=flat&logo=tech3&logoColor=white)
 
 ## 🏆 LeetCode Stats
-![](https://leetcard.Sathvik_leetcode.cool/yourusername?font=Dancing_Script)
+![](https://leetcard.jacoblin.cool/Sathvik_leetcode?site=cn)
+
 
 
 
