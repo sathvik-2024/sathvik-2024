@@ -34,11 +34,19 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 
 ---
 
-## 📫 How to reach me:  
-- Email: **your.email@example.com**  
-## 🌍 Connect with Me  
-🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-🐦 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
+## 📫 Connect with Me  
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
