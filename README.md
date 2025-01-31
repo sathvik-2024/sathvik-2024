@@ -37,21 +37,12 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 - **Full-Stack DApps**  
 - **Java & System Design Challenges**  
 
-## 🤔 I’m looking for help with:  
-- Optimizing smart contract gas usage  
-- Advanced Solidity security practices  
-
-## 💬 Ask me about:  
-- Ethereum & Smart Contracts  
-- Java & Data Structures  
-- Full-Stack Web Development  
-
 ---
 
 ## 📫 How to reach me:  
 - Email: **your.email@example.com**  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
 
@@ -65,5 +56,16 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
 
 ---
 
+## HackerRank
+- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/yourusername)  
+
+---
+
 ## 📊 GitHub Stats:  
 ![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
+
+---
+
+![Ethereum Developer](https://img.shields.io/badge/Ethereum-Developer-%233c3c3d?style=flat&logo=ethereum)  
+![Solidity Expert](https://img.shields.io/badge/Solidity-Developer-%23000000?style=flat&logo=solidity)  
+
