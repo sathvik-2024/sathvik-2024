@@ -10,6 +10,20 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Thi
 - [Skill 1] 
 - [Skill 2]
 
+## 🚀 Notable Projects
+
+Here are some of the most notable projects I’ve worked on:
+
+### 1. [Project Name](https://github.com/yourusername/projectname)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%2C%20Node.js-%2361DAFB?style=flat&logo=react)](https://reactjs.org/)  
+Short description of the project—what it does, the challenges it solves, etc. 
+
+### 2. [Project Name](https://github.com/yourusername/projectname)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%2C%20Flask-%231DA1F2?style=flat&logo=python)](https://flask.palletsprojects.com/)  
+A brief description of the project. This could be an app, a script, a library, or anything you want to showcase.
+
+
+
 ## 👯 I’m looking to collaborate on:
 - [Project/Topic] - If you’re interested, let’s chat!
 - Open to any fun projects in [specific tech stack].
