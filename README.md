@@ -43,9 +43,10 @@ A fun interactive **truth-or-dare game** with custom challenges and scoring.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=black" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 
 
 
